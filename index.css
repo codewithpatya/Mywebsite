@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+    }
+.backgruond{
+    background-image: url(./background.jpg);
+    
+
+}
+.Hero img{
+    width: 300px;
+    height: 300px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+nav{
+    margin: 5px;
+    display: inline;
+    justify-content: center;
+    position: fixed;
+}
+
+.d-flex1{
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+}
+.Hero{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 1px solid black;
+    background-image: url(./Summer.jpg);
+
+}
+.about img{
+    width: 300px;
+    height: 300px;
+    margin-left:100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 1px solid black;
+    background-image: url(./Socialive.jpg);
+
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url(./Summer.jpg);
+}
+.services img{
+    width: 190px;
+    height: 190px;
+    margin: 2px;
+}
+.card1{
+    border: 2px solid black;
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+
+} 
+.card2{
+    border: 2px solid black;
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+
+} 
+.card3{
+    border: 2px solid black;
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+} 
+
+.contact{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    border: 1px solid red;
+    background-image: url(./Socialive.jpg);
+
+}
+.contactpage{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-items: center;
+}
+.about1 {
+    display: flex;
+    justify-content: center;
+}
+.about2{
+    display: flex;
+    justify-content: center;
+}
+.about3{
+    display: flex;
+    justify-content: center;
+}
+.about p{
+    margin-right: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.Hero p{
+    margin:100px;
+}
+.html{
+    background-image: url(./images.png);
+}
